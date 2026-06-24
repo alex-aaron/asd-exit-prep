@@ -53,7 +53,6 @@ function race() {
 
 
 
-
   // Part 5 - Define your finalWinner variable
 
 
